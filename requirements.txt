@@ -1,0 +1,8 @@
+django
+Pillow
+pandas
+matplotlib
+openai
+numpy
+python-dotenv
+requests
